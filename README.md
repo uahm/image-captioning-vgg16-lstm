@@ -1,7 +1,5 @@
 # image-captioning-vgg16-lstm
 
-```markdown
-# 🖼️ Image Captioning using VGG16 + LSTM
 
 This project is a deep learning-based **image captioning system** that generates meaningful textual descriptions of images using **VGG16 for image feature extraction** and **LSTM (Long Short-Term Memory) networks** for sequence generation.
 
